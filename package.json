@@ -11,6 +11,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "react-router-dom": "^6.12.1"
+    "react-router-dom": "^6.12.1",
+    "tesseract.js": "^4.1.1",
+    "tesseractocr": "^2.0.3"
+  },
+  "devDependencies": {
+    "text-from-image": "^1.1.1"
   }
 }
